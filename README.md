@@ -5,8 +5,10 @@ Minimalista Android alkalmazás események kezeléséhez, kezdőképernyő widge
 ---
 
 ## Képernyőképek
-<img width="1080" height="2408" alt="Screenshot_20260416_202914" src="https://github.com/user-attachments/assets/88910358-fc28-4796-abff-02debfe0fce8" />
-<img width="1080" height="2408" alt="Screenshot_20260416_202907" src="https://github.com/user-attachments/assets/fce27ace-4f7f-446b-8eac-05635ce47691" />
+<p float="left">
+  <img src="Screenshot_20260416_202914" src="https://github.com/user-attachments/assets/88910358-fc28-4796-abff-02debfe0fce8" width="250" />
+  <img src="Screenshot_20260416_202907" src="https://github.com/user-attachments/assets/fce27ace-4f7f-446b-8eac-05635ce47691" width="250" />
+</p>
 
 | Főképernyő | Hozzáadás |
 |---|---|
